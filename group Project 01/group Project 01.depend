@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1679729084 source:g:\git project\qualitative-analysis\group project 01\main.c
+1679745463 source:g:\git project\qualitative-analysis\group project 01\main.c
 	<stdio.h>
 	<stdlib.h>
+	<time.h>
 
