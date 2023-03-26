@@ -21,7 +21,7 @@ int main()
 
 void main2(){
     //printf("\n\n ..................\n \n \n");
-    printf("   1 - Learn\n");
+    printf("\n   1 - Learn\n");
     printf("   2 - Quize\n");
     int l_or_q;
     printf("   Please Enter the Number What You Want : ");
@@ -390,7 +390,7 @@ void strloop(char str[],int len_str){
 void delay(int number_of_seconds)
 {
     //
-    int milli_seconds = 2* number_of_seconds;
+    int milli_seconds = 4* number_of_seconds;
 
     // Storing start time
     clock_t start_time = clock();
